@@ -1,0 +1,16 @@
+------------------------------------------------------
+Togeataman (my original character)
+for Sven Co-op 5.0 player model
+
+togatta koto ga sukina otoko.
+mirai ha hageataman.
+
+Animation by Sven Co-op Team
+Character, Model, Skin, Compiled by originaldon
+
+Programs Used: MilkShape 3D, SAI, EDGE
+Website: http://www.geocities.jp/tepodonsc35/
+
+24-02-2017 updated ver1.1 (Fixed Model)
+30-01-2017 completed
+------------------------------------------------------

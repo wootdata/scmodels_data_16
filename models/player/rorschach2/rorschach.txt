@@ -1,0 +1,20 @@
+Rorschach from the WATCHMEN graphic novel.
+------------------------------------------
+
+If you have read Watchmen, you will know
+that Rorschach is pretty much the most 
+badass dude ever. If you arent a big comic
+person, the movie should be out next year.
+
+Model:     Harry
+Texture:   Harry
+Anims:     TS team +enix?
+
+The anims are stolen shamelessly from the
+grey fox model, and from what i can tell,
+Enix did those. If i'm wrong, contact me.
+
+Visit Harryforum at 
+www.harrysite.net
+
+<3 harry
