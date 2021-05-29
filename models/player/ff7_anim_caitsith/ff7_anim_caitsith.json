@@ -1,1 +1,440 @@
-{"seq_groups": 1, "hash": "d7441fad58a6e004575382ef4effef33", "tri_count": "1259"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "caitsith",
+					"polys": 1259,
+					"verts": 710
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 10,
+			"end": 15.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 11,
+			"end": 15.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 12,
+			"end": 15.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 13,
+			"end": 15.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "d7441fad58a6e004575382ef4effef33",
+	"name": "ff7_anim_caitsith.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 101,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 101,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 33,
+			"name": "run"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 33,
+			"name": "walk"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 101,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 101,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 4.000000,
+			"frames": 101,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 101,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 101,
+			"name": "swim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 101,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 101,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 101,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 101,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 101,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 101,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 101,
+			"name": "ref_draw_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 101,
+			"name": "ref_aim_crowbar"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 33,
+			"name": "ref_shoot_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 101,
+			"name": "crouch_draw_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 101,
+			"name": "crouch_aim_crowbar"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 101,
+			"name": "crouch_shoot_crowbar"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 101,
+			"name": "deadback"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 101,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 101,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 101,
+			"name": "deadtable"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "004 ryARb6",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 7
+		}, 
+		{
+			"name": "002 ryAOb3",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Catspine",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 Catspine1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Cathead",
+			"parent": 15
+		}, 
+		{
+			"name": "009 ryBA15",
+			"parent": 16
+		}, 
+		{
+			"name": "015 ryBK25",
+			"parent": 15
+		}, 
+		{
+			"name": "011 ryBE19",
+			"parent": 15
+		}, 
+		{
+			"name": "014 ryBJ24",
+			"parent": 15
+		}, 
+		{
+			"name": "012 ryBF20",
+			"parent": 15
+		}, 
+		{
+			"name": "013 ryBI23",
+			"parent": 15
+		}, 
+		{
+			"name": "016 ryBM27",
+			"parent": 15
+		}, 
+		{
+			"name": "010 ryBD18",
+			"parent": 15
+		}, 
+		{
+			"name": "025 ryBY39",
+			"parent": 14
+		}, 
+		{
+			"name": "024 ryBX38",
+			"parent": 14
+		}, 
+		{
+			"name": "019 ryBQ31",
+			"parent": 14
+		}, 
+		{
+			"name": "018 ryBP30",
+			"parent": 14
+		}, 
+		{
+			"name": "023 ryBW37",
+			"parent": 14
+		}, 
+		{
+			"name": "017 ryBO29",
+			"parent": 14
+		}, 
+		{
+			"name": "020 ryBS33",
+			"parent": 14
+		}, 
+		{
+			"name": "022 ryBU35",
+			"parent": 14
+		}, 
+		{
+			"name": "021 ryBT34",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 35
+		}, 
+		{
+			"name": "006 ryAV10",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 38
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 39
+		}, 
+		{
+			"name": "028 ryCE45",
+			"parent": 38
+		}, 
+		{
+			"name": "026 ryBZ40",
+			"parent": 11
+		}, 
+		{
+			"name": "027 ryCB42",
+			"parent": 10
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "caitdflt.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

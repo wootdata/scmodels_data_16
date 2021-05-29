@@ -1,1 +1,221 @@
-{"seq_groups": 1, "hash": "1deba96a5524560fa9b62cf01cd64ae0", "tri_count": "749"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "forklift",
+					"polys": 749,
+					"verts": 520
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "1deba96a5524560fa9b62cf01cd64ae0",
+	"name": "valve/models/forklift.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "dummy"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 101,
+			"name": "drive"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 101,
+			"name": "drive2"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 51,
+			"name": "jockey"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 51,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 71,
+			"name": "patha"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 101,
+			"name": "pathb"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "flmain",
+			"parent": -1
+		}, 
+		{
+			"name": "frontsusp",
+			"parent": 0
+		}, 
+		{
+			"name": "FLw",
+			"parent": 1
+		}, 
+		{
+			"name": "FRw",
+			"parent": 1
+		}, 
+		{
+			"name": "backsusp",
+			"parent": 0
+		}, 
+		{
+			"name": "Brw",
+			"parent": 4
+		}, 
+		{
+			"name": "BLw",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone12",
+			"parent": 7
+		}, 
+		{
+			"name": "rjoin",
+			"parent": 8
+		}, 
+		{
+			"name": "Rhand",
+			"parent": 9
+		}, 
+		{
+			"name": "Rwrist",
+			"parent": 10
+		}, 
+		{
+			"name": "Relb",
+			"parent": 11
+		}, 
+		{
+			"name": "ljoin",
+			"parent": 8
+		}, 
+		{
+			"name": "lhand",
+			"parent": 13
+		}, 
+		{
+			"name": "Lwrist",
+			"parent": 14
+		}, 
+		{
+			"name": "Lelb",
+			"parent": 15
+		}, 
+		{
+			"name": "lift",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "fl_side.bmp",
+			"width": 196
+		}, 
+		{
+			"flags": 0,
+			"height": 57,
+			"name": "fl_back.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 183,
+			"name": "fl_top.bmp",
+			"width": 132
+		}, 
+		{
+			"flags": 0,
+			"height": 34,
+			"name": "fl_grey.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 48,
+			"name": "fl_front.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "fl_tire.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "fl_gate.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 244,
+			"name": "fl_lift.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 116,
+			"name": "gus_face.bmp",
+			"width": 88
+		}, 
+		{
+			"flags": 0,
+			"height": 71,
+			"name": "gus_headside.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "gus_arm.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "gus_torso.bmp",
+			"width": 100
+		}, 
+		{
+			"flags": 0,
+			"height": 86,
+			"name": "gus_legside.bmp",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "gus_hands.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}
