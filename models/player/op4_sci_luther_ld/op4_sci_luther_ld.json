@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +20,22 @@
 		{
 			"models": [
 				{
-					"name": "re_succ_commander_merc_terror",
-					"polys": 1559,
-					"verts": 1141
+					"name": "OP4_Grunt_Body_Ref",
+					"polys": 492,
+					"verts": 260
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "OP4_Scientist_Luther_Head_Ref",
+					"polys": 152,
+					"verts": 88
+				}
+			],
+			"name": "head"
 		}
 	],
 	"controllers": [
@@ -176,14 +181,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -301,8 +306,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "6f738760f4f74f4096427f80f8cc09ac",
-	"name": "re_ubcs_mikhail.mdl",
+	"md5": "9e69ef4063d52fe9cf7ea463a466f35e",
+	"name": "OP4_Scientist_Luther.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1259,14 +1264,9 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1216464,
+	"size": 1029940,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1321,24 +1321,44 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger0",
 			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1346,15 +1366,43 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -1362,21 +1410,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "terror_body.bmp",
-			"width": 512
+			"height": 140,
+			"name": "OP4_Soldier.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
-			"name": "head.bmp",
-			"width": 416
+			"height": 156,
+			"name": "remap1_000_126_255.bmp",
+			"width": 312
 		}, 
 		{
 			"flags": 0,
-			"height": 64,
-			"name": "PC_soldier_beret_red.bmp",
+			"height": 65,
+			"name": "OP4_Hands.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 105,
+			"name": "L_Side1.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 115,
+			"name": "L_Face1.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 8,
+			"name": "Sci2_Tounge.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 6,
+			"name": "Sci2_Teeth.bmp",
+			"width": 48
 		}
 	],
 	"version": 10
