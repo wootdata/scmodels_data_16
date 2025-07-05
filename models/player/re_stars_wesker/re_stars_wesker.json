@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "08fb9acc24ef1c2e6dab6a24be5946ff",
-	"name": "RE_STARS_Wesker.mdl",
+	"md5": "d7dd64eba31ea43c48f99a8744c4f2f2",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1588112,
+	"size": 1940656,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1314,13 +1314,13 @@
 			"flags": 0,
 			"height": 248,
 			"name": "glass.bmp",
-			"width": 252
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 245,
+			"height": 246,
 			"name": "frames.bmp",
-			"width": 504
+			"width": 508
 		}, 
 		{
 			"flags": 0,
@@ -1330,15 +1330,15 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 500,
+			"height": 501,
 			"name": "legs.bmp",
-			"width": 376
+			"width": 380
 		}, 
 		{
 			"flags": 0,
 			"height": 244,
 			"name": "head.bmp",
-			"width": 412
+			"width": 416
 		}, 
 		{
 			"flags": 0,
@@ -1354,15 +1354,15 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 200,
+			"height": 512,
 			"name": "SAS_body.bmp",
-			"width": 268
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 211,
+			"height": 500,
 			"name": "SM_1pNEW.bmp",
-			"width": 452
+			"width": 468
 		}
 	],
 	"version": 10
