@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c2ee278e5314059f9a04b679516e2262",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hunk_re4.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

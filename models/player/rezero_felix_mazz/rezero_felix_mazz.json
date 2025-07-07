@@ -92,6 +92,7 @@
 			"name": "skirt"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -362,7 +363,11 @@
 	],
 	"id": 1414743113,
 	"md5": "500a673642245dcc6d6cdf196f88c534",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "REZERO_felix_mazz.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

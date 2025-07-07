@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -632,7 +633,11 @@
 	],
 	"id": 1414743113,
 	"md5": "777e88633e93a5ff4fa83226706d93e1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "trempdoom.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

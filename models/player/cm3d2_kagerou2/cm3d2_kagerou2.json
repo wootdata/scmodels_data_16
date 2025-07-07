@@ -373,6 +373,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -627,7 +628,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6e347d891ef1207b8ce22013b151299b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Kag2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

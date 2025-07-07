@@ -183,6 +183,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59445b379edb1897ed4d0d8deaeec4a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "axis-inf.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

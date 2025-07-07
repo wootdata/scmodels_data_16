@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -443,7 +444,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4d409f9f21b93ae6991c61aa36d16387",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\64150\\Desktop\\1\\pipi_p.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

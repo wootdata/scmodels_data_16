@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7fc59cd4ff4f1155589d691a20f1f3a9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\SvenCoop\\csssas.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

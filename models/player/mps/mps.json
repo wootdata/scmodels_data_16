@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "53e5b2670be6cd9f10d3f4a4ffd887df",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mps.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

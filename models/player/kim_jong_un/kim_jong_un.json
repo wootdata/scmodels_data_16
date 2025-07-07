@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4d01a68e48ccb4eb7f55a570d5d1deb2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "UNUSED_PLAYER.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

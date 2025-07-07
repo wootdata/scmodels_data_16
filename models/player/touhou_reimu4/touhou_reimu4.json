@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -854,7 +855,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bc435af9f04f9a11e6585c322ced9142",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "Touhou_Raimu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1092838520,
 	"events": [
@@ -123,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cdf8aad26894d90b1bff102c5876bd2b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bike_louis.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

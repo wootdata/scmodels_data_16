@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1541883045,
 	"events": [
@@ -270,7 +271,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dbd55a56b597c69a06f6e0d25b0f4955",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "saw.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

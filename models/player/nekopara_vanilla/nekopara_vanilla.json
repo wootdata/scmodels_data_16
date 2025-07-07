@@ -192,6 +192,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d95dcdd80f4ddc30ec3116836a1c2d8d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nekopara_Vanilla.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

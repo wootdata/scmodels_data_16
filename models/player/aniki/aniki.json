@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7f043cbd164c64f26532c633de3ccf8d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aniki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

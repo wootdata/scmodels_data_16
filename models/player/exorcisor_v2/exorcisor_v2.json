@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b696c939f4416de95def77317c3f2907",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "exorcisor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f4dbb10d2566220fdb06e08b173a419a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "old_delta4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

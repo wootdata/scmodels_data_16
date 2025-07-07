@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bab187e2a574dfcb3426c271e5d1aa0a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "e:\\valve/models/player/clan_killer/clan_killer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

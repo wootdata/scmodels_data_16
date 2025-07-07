@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fa2d574664abcd6799eaea7bf668f185",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fishman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

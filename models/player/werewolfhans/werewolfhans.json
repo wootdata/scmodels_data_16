@@ -63,6 +63,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8368aa506c03816e7ac7ee4f513a7d0c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "werewolfhans.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e76f9b4eb82efd489f239f5ad498a0bb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "skelepuncher.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

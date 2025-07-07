@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -294,7 +295,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1114e963dab3a0647b814023b486717d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Burton_commando.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

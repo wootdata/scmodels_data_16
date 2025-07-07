@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -782,7 +783,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0fd5f9d2f837938155c7b5ae20f0158",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "BA_Iori.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

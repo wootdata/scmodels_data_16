@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6d4ffd68b6b147ac181afd4083d0365",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]Sgt_Brady.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

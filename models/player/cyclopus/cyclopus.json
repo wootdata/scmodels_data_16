@@ -42,6 +42,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -312,7 +313,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bf79eed259226d921f9b5cd03842ff07",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cyclopus.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

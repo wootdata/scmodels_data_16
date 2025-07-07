@@ -83,6 +83,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9b54b1fd82a8ffd822bb54be30f7ef6c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_PurpleSister.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

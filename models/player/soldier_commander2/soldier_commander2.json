@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -240,7 +241,11 @@
 	],
 	"id": 1414743113,
 	"md5": "45a0fde95c54ca31071807cb2f0a63f8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\PCT\\Pulpit\\Nowy folder\\soldier_reconf\\",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

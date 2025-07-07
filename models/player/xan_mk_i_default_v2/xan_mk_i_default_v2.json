@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "931e932c61510f1d32598bb4e5f7f7f3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Xan_mk_I_blue.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

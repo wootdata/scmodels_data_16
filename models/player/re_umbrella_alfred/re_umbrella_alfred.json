@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dc1fbed90b4fb8505cba52f4f1bcc4c0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_UMBRELLA_Alfred.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

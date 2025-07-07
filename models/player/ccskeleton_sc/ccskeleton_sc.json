@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e56b12ebbe04e2b8b5ce7e52a1d21fa5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ccskeleton.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

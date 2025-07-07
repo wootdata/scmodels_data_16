@@ -53,6 +53,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9dc8b9671694909247640c6f4c79d9f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vengeful_spirit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

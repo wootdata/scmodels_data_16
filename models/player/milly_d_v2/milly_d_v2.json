@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d22112072ec64241c015c03d4eab46fd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Milly_D.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

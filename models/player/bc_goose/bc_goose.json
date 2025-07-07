@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1710198878,
 	"events": [],
 	"id": 1414743113,
 	"md5": "eec9a5472ca20325a95e5917fc6a12c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencoo(\\",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

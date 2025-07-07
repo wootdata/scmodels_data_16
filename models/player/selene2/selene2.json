@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -362,7 +363,11 @@
 	],
 	"id": 1414743113,
 	"md5": "286284b9eb254bb3e136eeaab3d445fe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "selene2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

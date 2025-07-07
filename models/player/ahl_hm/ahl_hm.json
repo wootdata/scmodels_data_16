@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1397b3a8a3cf4325ee3d9ed8a5106a89",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_HM.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

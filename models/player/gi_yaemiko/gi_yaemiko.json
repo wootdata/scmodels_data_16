@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -802,7 +803,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d79b7307e842fca12261fe0a577ad5b1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gakusei_hk416.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

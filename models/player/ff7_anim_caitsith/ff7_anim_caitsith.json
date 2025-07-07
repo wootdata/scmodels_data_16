@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -100,7 +101,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d7441fad58a6e004575382ef4effef33",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ff7_anim_caitsith.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

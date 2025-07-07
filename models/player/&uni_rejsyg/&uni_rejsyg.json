@@ -138,6 +138,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -668,7 +669,11 @@
 	],
 	"id": 1414743113,
 	"md5": "22eb032ea303c4fde73f29b39f0a026a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "&Uni_Rejsyg-v35.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1609572702,
 	"events": [
@@ -128,7 +129,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d534f05b9f2d3ce56065e9b7cc7936cc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "among us.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

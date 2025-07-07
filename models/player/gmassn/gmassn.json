@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9d1448e8c6367bd79eacb7f66305e228",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gmassn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -22,6 +22,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1192364390,
 	"events": [
@@ -259,7 +260,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4e6340acdfcfb30cb15d8960d0c017c2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "policecar.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
