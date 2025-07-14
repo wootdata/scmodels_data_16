@@ -386,6 +386,7 @@
 	"md5": "1c91cdff46f1445b5d1f8d24d7d5fbb1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "tetris.mdl",
 	"preview": true,
 	"readme": false,

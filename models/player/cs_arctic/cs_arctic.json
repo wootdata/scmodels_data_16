@@ -301,6 +301,7 @@
 	"md5": "28d3b164afcf1ab25f94f149fbc24ee2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_arctic.mdl",
 	"preview": true,
 	"readme": false,

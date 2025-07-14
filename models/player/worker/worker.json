@@ -301,6 +301,7 @@
 	"md5": "bf0983d7e9e4f5e12be7906bae4ab528",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "worker.mdl",
 	"preview": true,
 	"readme": false,

@@ -301,6 +301,7 @@
 	"md5": "481fea3349e09db14808dc07a7ec7575",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "go_heavy.mdl",
 	"preview": true,
 	"readme": false,

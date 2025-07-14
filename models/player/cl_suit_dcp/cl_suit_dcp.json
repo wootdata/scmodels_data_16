@@ -306,6 +306,7 @@
 	"md5": "940b1dce7a8cdd28a844cff47481cb78",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "cl_suit.mdl",
 	"preview": true,
 	"readme": false,
