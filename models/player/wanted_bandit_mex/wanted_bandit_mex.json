@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "1bdd8d44c9638b7580badce25271c4df",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Bandit Mex\\Bandit_Mex_DM.mdl",
 	"preview": false,
 	"readme": false,

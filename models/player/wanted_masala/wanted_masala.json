@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "958c24db27cc6306a5c3e763fc23e49e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Masala\\Masala_DM.mdl",
 	"preview": false,
 	"readme": false,

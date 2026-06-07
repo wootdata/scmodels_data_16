@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "d1a7482e7091d894f4846a5a361972c3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\WINDOWS\\Desktop\\mavfixshit\\beaar_MP\\Bear_MP.mdl",
 	"preview": false,
 	"readme": false,

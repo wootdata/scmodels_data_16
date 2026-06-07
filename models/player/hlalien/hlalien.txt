@@ -1,0 +1,23 @@
+================
+HLalien Document
+================
+
+Info:
+Model and textures created from scratch by me
+276 vertices, 405 normals
+548 tris, 113 strips
+Valve Animations
+121540 bytes of textures
+
+Comments:
+This model was created purely in educational purpose. 
+This is my first game model ever, I am quite pleased
+with the result. 
+This model was created by the help of the excellent
+tutorials mainly on Cold Fusion, but also on 
+Wavelength. You deserve all the credit you can get.
+
+
+Author: Mattias "Hydroman" Tullgren
+	Helsingborg Sweden
+	mt99@mail.bip.net

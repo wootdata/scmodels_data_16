@@ -236,7 +236,7 @@
 			"type": 32
 		}
 	],
-	"date": 1701376901,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -628,6 +628,7 @@
 	"md5": "7553e8d2c324cf2dfb423988d1cfbf08",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "BA_Miyu.mdl",
 	"preview": false,
 	"readme": false,

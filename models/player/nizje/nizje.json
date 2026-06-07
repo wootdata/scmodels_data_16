@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185456934,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "bab187e2a574dfcb3426c271e5d1aa0a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "e:\\valve/models/player/clan_killer/clan_killer.mdl",
 	"preview": true,
 	"readme": false,
